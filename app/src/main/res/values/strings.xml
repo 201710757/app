@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+
+    <string name="admob_app_id">ca-app-pub-8670335786424108~5486507384</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8670335786424108/7921099038</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
